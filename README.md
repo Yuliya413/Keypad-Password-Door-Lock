@@ -25,5 +25,5 @@ Solo project.
 - Extend with servo/relay for physical lock
 
 ## Demo
-![Circuit Diagram](screenshots/circuit.png)  
+![Circuit Diagram](circuit.png)  
 ![Simulation](https://www.tinkercad.com/things/lnCskaYqijb-p9-yuliya?sharecode=Z4Iqy6ty9iNEEibgNrey3M4O_DSlBYoswIZLY0vppGM)# Keypad-Password-Door-Lock
